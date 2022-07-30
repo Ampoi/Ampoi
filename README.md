@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ampoi
 
-<!--
-**Ampoi/Ampoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一般的なパソコン好きの中学生
 
-Here are some ideas to get you started:
+## Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampoi&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ampoi&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ampoi&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Metrics](https://metrics.lecoq.io/Ampoi?template=classic&achievements=1&tweets=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&tweets.user=.user.twitter&tweets.attachments=false&tweets.limit=2&config.timezone=Asia%2FTokyo)
