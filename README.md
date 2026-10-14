@@ -1,6 +1,6 @@
 # Ampoi
 
-一般的なパソコン好きの高校生
+ロケット、ロボット、ウェブ開発に興味のある大学生
 
 ## Status
 ![](https://github-readme-stats-two-blond-97.vercel.app/api?username=Ampoi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
